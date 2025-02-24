@@ -79,5 +79,9 @@ Estimated Data Usage (bytes): 512
 203.0.113.195 (Just IP)
 
 ### Requirements
-	•	Cloudflare Workers account.
-	•	A domain or subdomain configured to point to the worker.
+- Cloudflare Workers account.
+- A domain or subdomain configured to point to the worker.
+
+### Demo
+You can check this address for demo or even personal usage:
+[Erised.ir](https://erised.ir)
